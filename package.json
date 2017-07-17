@@ -1,0 +1,21 @@
+{
+  "name": "design-responsivo",
+  "version": "1.0.0",
+  "description": "Atividade Design Responsivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "aula",
+    "iracapella",
+    "certificacao",
+    "bootstrap"
+  ],
+  "author": "Iradson Bomfim dos Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}

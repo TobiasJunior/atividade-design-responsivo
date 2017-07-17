@@ -1,0 +1,25 @@
+{
+  "name": "design-responsivo",
+  "description": "Atividade Design Responsivo",
+  "main": "index.js",
+  "authors": [
+    "Iradson Bomfim dos Santos"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "curso",
+    "aula",
+    "iracapella",
+    "certificacao",
+    "bootstrap"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
